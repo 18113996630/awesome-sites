@@ -8,3 +8,4 @@
 | generate logo                   |                                                                 | https://slea.ai/zh-CN/app                           | 2024-12-20             |
 | color matching                  |                                                                 | https://www.ysdaima.com/tools/palettes              | 2024-12-20             |
 | readdy                          | 页面设计                                                            |  https://readdy.ai/home                             | 2025-01-18|
+| 照片美化                        | 照片美化，做推广图                                                       | https://shots.so/            | 2025-02-25        | 
