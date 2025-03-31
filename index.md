@@ -13,3 +13,9 @@
 | swiftui hex转颜色              | swiftui hex转颜色                                                  | https://ditto.live/blog/swift-hex-color-extension   | 2025-02-10      | 
 | 照片美化                        | 照片美化，做推广图                                                       | https://shots.so/                                   | 2025-02-25      | 
 | App Store上架工具集              | 图标、截图生成                                                         | https://appcrafter.dev/zh                           | 2025-02-25      | 
+https://www.footer.design/
+https://godly.website/
+https://www.awwwards.com/
+https://www.dark.design/
+https://www.landingly.co/
+https://dribbble.com/shots/popular/web-design
