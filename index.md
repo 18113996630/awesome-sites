@@ -25,3 +25,4 @@ https://bookmark.bqrdh.com/share/7213527ebf9aa097ec3eb50254c1e8b5?pageId=41&layo
 https://lovable.dev/?via=typescript
 
 https://readdy.ai/
+https://uiverse.io/
