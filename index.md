@@ -1,28 +1,27 @@
-| Website name                | Description                                                     | URL                                                 | Collection time |
-|-----------------------------|-----------------------------------------------------------------|-----------------------------------------------------|-----------------|
-| internet business article   | blog type                                                       | https://news.qq.com/omn/author/8QMa3Xlc5YcbuA%3D%3D | 2024-12-04      |
-| Development tool website    | <img src="image/Development tool website.png" width="200px">    | https://tools.fun                                   | 2024-10-25      |
-| Tencent QQ browser tool box | <img src="image/Tencent QQ browser tool box.png" width="200px"> | https://tool.browser.qq.com                         | 2024-10-25      |
-| uigradients                 | <img src="image/uigradients.png" width="200px">                 | https://uigradients.com                             | 2024-10-25      |
-| WordPress Themes            |                                                                 | https://themeforest.net/                            | 2024-12-03      |
-| generate logo               |                                                                 | https://slea.ai/zh-CN/app                           | 2024-12-20      |
-| color matching              |                                                                 | https://www.ysdaima.com/tools/palettes              | 2024-12-20      |
-| readdy                      | 页面设计                                                            | https://readdy.ai/home                              | 2025-01-18      |
-| dribbble                    | swiftui 组件                                                      | https://dribbble.com/search/swiftui                 | 2025-01-20      |
-| medium                      | swiftui 组件                                                      | https://medium.com/tag/swiftui                      | 2025-01-20      |
-| swiftui hex转颜色              | swiftui hex转颜色                                                  | https://ditto.live/blog/swift-hex-color-extension   | 2025-02-10      | 
-| 照片美化                        | 照片美化，做推广图                                                       | https://shots.so/                                   | 2025-02-25      | 
-| App Store上架工具集              | 图标、截图生成                                                         | https://appcrafter.dev/zh                           | 2025-02-25      | 
-https://www.footer.design/
-https://godly.website/
-https://www.awwwards.com/
-https://www.dark.design/
-https://www.landingly.co/
-https://dribbble.com/shots/popular/web-design
-计相关网站
-https://bookmark.bqrdh.com/share/7213527ebf9aa097ec3eb50254c1e8b5?pageId=41&layout=Group
-
-https://lovable.dev/?via=typescript
-
-https://readdy.ai/
-https://uiverse.io/
+| Website name                | Description                                                     | URL                                                                                                                                                                                  | Collection time |
+|-----------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| internet business article   | blog type                                                       | https://news.qq.com/omn/author/8QMa3Xlc5YcbuA%3D%3D                                                                                                                                  | 2024-12-04      |
+| Development tool website    |     | https://tools.fun                                                                                                                                                                    | 2024-10-25      |
+| Tencent QQ browser tool box |  | https://tool.browser.qq.com                                                                                                                                                          | 2024-10-25      |
+| uigradients                 |                  | https://uigradients.com                                                                                                                                                              | 2024-10-25      |
+| WordPress Themes            |                                                                 | https://themeforest.net/                                                                                                                                                             | 2024-12-03      |
+| generate logo               |                                                                 | https://slea.ai/zh-CN/app                                                                                                                                                            | 2024-12-20      |
+| color matching              |                                                                 | https://www.ysdaima.com/tools/palettes                                                                                                                                               | 2024-12-20      |
+| readdy                      | 页面设计                                                            | https://readdy.ai/home                                                                                                                                                               | 2025-01-18      |
+| dribbble                    | swiftui 组件                                                      | https://dribbble.com/search/swiftui                                                                                                                                                  | 2025-01-20      |
+| medium                      | swiftui 组件                                                      | https://medium.com/tag/swiftui                                                                                                                                                       | 2025-01-20      |
+| swiftui hex转颜色              | swiftui hex转颜色                                                  | https://ditto.live/blog/swift-hex-color-extension                                                                                                                                    | 2025-02-10      | 
+| 照片美化                        | 照片美化，做推广图                                                       | https://shots.so/                                                                                                                                                                    | 2025-02-25      | 
+| App Store上架工具集              | 图标、截图生成                                                         | https://appcrafter.dev/zh                                                                                                                                                            | 2025-02-25      | 
+| App Store上架工具集              | 截图生成                                                            | https://www.appshots.top/editor                                                                                                                                                      | 2025-12-15      | 
+| Footer Design               | 专注于网站页脚（Footer）设计灵感的展示平台                  | [https://www.footer.design/](https://www.footer.design/)                                                                                                                             | 2025-12-15      |
+| Godly Website               | 高质量网站设计灵感展示平台                        | [https://godly.website/](https://godly.website/)                                                                                                                                     | 2025-12-15      |
+| Awwwards                    | 国际知名的网站设计评选与展示平台                  | [https://www.awwwards.com/](https://www.awwwards.com/)                                                                                                                               | 2025-12-15      |
+| Dark Design                 | 专注于暗色模式（Dark Mode）网页设计的灵感集合网站                    | [https://www.dark.design/](https://www.dark.design/)                                                                                                                                 | 2025-12-15      |
+| Landingly                   | 提供落地页（Landing Page）设计灵感与案例的网站              | [https://www.landingly.co/](https://www.landingly.co/)                                                                                                                               | 2025-12-15      |
+| Dribbble Web Design Shots   | Dribbble 中专门展示网页设计作品的分类页面                   | [https://dribbble.com/shots/popular/web-design](https://dribbble.com/shots/popular/web-design)                                                                                       | 2025-12-15      |
+| Bookmark Share (BQrdh)      | 基于书签的内容聚合与分享页面                             | [https://bookmark.bqrdh.com/share/7213527ebf9aa097ec3eb50254c1e8b5?pageId=41&layout=Group](https://bookmark.bqrdh.com/share/7213527ebf9aa097ec3eb50254c1e8b5?pageId=41&layout=Group) | 2025-12-15      |
+| Dribbble                    | 全球设计师社区平台                       | [https://dribbble.com/](https://dribbble.com/)                                                                                                                                       | 2025-12-15      |
+| Lovable                     | 用户通过自然语言描述即可生成可运行的产品原型                       | [https://lovable.dev/?via=typescript](https://lovable.dev/?via=typescript)                                                                                                           | 2025-12-15      |
+| Readdy                      | AI 驱动的产品与网页生成平台，支持将想法快速转化为界面设计或前端代码                             | [https://readdy.ai/](https://readdy.ai/)                                                                                                                                             | 2025-12-15      |
+| UIverse                     | 提供可直接复制使用的前端 UI 组件代码                     | [https://uiverse.io/](https://uiverse.io/)                                                                                                                                           | 2025-12-15      |
